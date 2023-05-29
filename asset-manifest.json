@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FormInsertion_Validatioon/static/css/main.a4417f7e.css",
+    "main.js": "/FormInsertion_Validatioon/static/js/main.2dc9d54b.js",
+    "index.html": "/FormInsertion_Validatioon/index.html",
+    "main.a4417f7e.css.map": "/FormInsertion_Validatioon/static/css/main.a4417f7e.css.map",
+    "main.2dc9d54b.js.map": "/FormInsertion_Validatioon/static/js/main.2dc9d54b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4417f7e.css",
+    "static/js/main.2dc9d54b.js"
+  ]
+}
